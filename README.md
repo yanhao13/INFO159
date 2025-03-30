@@ -1,2 +1,2 @@
 # INFO159
-UCB INFO159 NLP
+Berkeley INFO 159 Natural Language Processing
